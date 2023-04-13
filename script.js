@@ -1,6 +1,5 @@
 console.clear();
 
-
 const { gsap, imagesLoaded } = window;
 
 const buttons = {
